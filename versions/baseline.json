@@ -1,3 +1,8 @@
 {
-  "default": {}
+  "default": {
+    "ncursesw": {
+      "baseline": "6.4",
+      "port-version": 2
+    }
+  }
 }
